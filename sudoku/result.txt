@@ -1,0 +1,31 @@
+[Thread 4]Row0: valid
+[Thread 4]Row1: valid
+[Thread 4]Row2: valid
+[Thread 4]Row3: valid
+[Thread 4]Row4: valid
+[Thread 4]Row5: valid
+[Thread 4]Row6: valid
+[Thread 4]Row7: valid
+[Thread 4]Row8: valid
+[Thread 5]Column0: valid
+[Thread 5]Column1: valid
+[Thread 5]Column2: valid
+[Thread 5]Column3: valid
+[Thread 5]Column4: valid
+[Thread 5]Column5: valid
+[Thread 5]Column6: valid
+[Thread 5]Column7: valid
+[Thread 5]Column8: valid
+[Thread 6]Subgrid R012C012: valid
+[Thread 7]Subgrid R012C345: valid
+[Thread 8]Subgrid R012C678: valid
+[Thread 9]Subgrid R345C012: valid
+[Thread 10]Subgrid R345C345: valid
+[Thread 11]Subgrid R345C678: valid
+[Thread 1]Subgrid R678C012: valid
+[Thread 2]Subgrid R678C345: valid
+[Thread 3]Subgrid R678C678: valid
+Valid rows: 9
+Valid columns: 9
+Valid blocks: 9
+This sudoku solution is valid
